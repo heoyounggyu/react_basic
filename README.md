@@ -25,6 +25,14 @@ npx create-react-app 폴더명
 cd 폴더명
 
 npm start
+
+
+#SPA : SINGLE PAGE APPLICATION
+
+페이지는 하나인데 여러개 인것처럼 눈속임을 한다 --> 자바스크립트가 해준다 페이즐 매번 새로고침할 필요가 없음 웹사이트를 모바일앱처럼 사용할수 있음
+
+
+
     
 
 
