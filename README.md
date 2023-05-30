@@ -31,6 +31,13 @@ npm start
 
 페이지는 하나인데 여러개 인것처럼 눈속임을 한다 --> 자바스크립트가 해준다 페이즐 매번 새로고침할 필요가 없음 웹사이트를 모바일앱처럼 사용할수 있음
 
+vs code 확장프로그램
+![image](https://github.com/heoyounggyu/react_basic/assets/129017041/58ba3941-d5b3-4faf-b572-7488c5dc06ab)
+
+setting 설정
+![image](https://github.com/heoyounggyu/react_basic/assets/129017041/7a3af255-a5fe-4c2e-9943-8cb6e9570821)
+![image](https://github.com/heoyounggyu/react_basic/assets/129017041/d3be0ec0-426e-4f3c-9210-fb911592e5c0)
+
 
 
     
